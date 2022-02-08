@@ -1,0 +1,5 @@
+a=int(input("enetr the distance in kilometers:"))
+centimeters=a*100000
+print("the distance in kilometers is",a",km,the converted distance in centimeters is",centimeters)
+enetr the distance in kiometers:475
+the distance in kilometers is 475km,the convereted distance in centimeters is 47500000
